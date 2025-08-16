@@ -1,35 +1,40 @@
-<div align="center">
+# 👋 Hey, I'm Ali
 
-# 👋 Hey there, I'm **Ali**  
-
-
-## 🌟 **Languages & Frameworks**
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-    <img src="https://img.shields.io/badge/HTML5-FF6F61?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS3-2CA8E0?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</div>
+### 🎯 Hobby Developer | Tech Enthusiast | Creative Mind
 
 ---
 
-## ⚙️ **Dev Tools**
+## 💻 Tech Stack  
 
-<div align="center">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-</div>
+**Languages:**  
+![HTML](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=6A0DAD)  
+![CSS](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=6A0DAD)  
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=6A0DAD)  
+![Lua](https://img.shields.io/badge/Lua-0d0d0d?style=for-the-badge&logo=lua&logoColor=6A0DAD)
+
+**Databases:**  
+![MariaDB](https://img.shields.io/badge/MariaDB-0d0d0d?style=for-the-badge&logo=mariadb&logoColor=6A0DAD)
 
 ---
 
-## 🌐 **Connect with Me**
+## 🎨 Tools & Design
 
-<div align="center">
-    <a href="https://discord.com/users/fitnaaaaa" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-</div>
+![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=6A0DAD)  
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=6A0DAD)  
+![Framer](https://img.shields.io/badge/Framer-0d0d0d?style=for-the-badge&logo=framer&logoColor=6A0DAD)  
+![Photoshop](https://img.shields.io/badge/Photoshop-0d0d0d?style=for-the-badge&logo=adobephotoshop&logoColor=6A0DAD)
 
-</div>
+---
+
+## 🤝 Let's Connect
+
+[![Discord](https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=6A0DAD)](https://discord.com/users/973670159149588500)  
+&nbsp;
+
+> 💬 *Open for collaboration, learning, and new challenges – don’t hesitate to reach out!*
+
+---
+
+### ✨ Extras
+
+Feel free to check out my repositories or explore my projects! 🚀
