@@ -50,11 +50,11 @@
 ## 🤝 Let's Connect
 
 <p>
-  <a href="DEIN_GITHUB_LINK">
+  <a href="https://github.com/fitnaaaaa/fitnaaaaa">
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
-  <a href="DEIN_LINKEDIN_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+    <a href="https://discord.com/users/973670159149588500">
+    <img src="https://skillicons.dev/icons?i=discord" width="45"/>
   </a>
 </p>
 
