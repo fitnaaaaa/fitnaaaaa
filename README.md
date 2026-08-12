@@ -11,13 +11,13 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ## 🧰 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 🎨 Design & Creative
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,blender" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
